@@ -1,0 +1,28 @@
+_repo: El-m-n-hawainnoita-VIII--Rauta-waimoja--Sokea--Kuihtunut-wesa_14949
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Päivärinta, Pietari
+    alias: Paivarinta, Pietari
+    birthdate: 1827
+    deathdate: 1913
+    gutenberg_agent_id: '5555'
+    url: http://www.gutenberg.org/2009/agents/5555
+    wikipedia: http://fi.wikipedia.org/wiki/Pietari_P%C3%A4iv%C3%A4rinta
+description: ''
+gutenberg_issued: '2005-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14949'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction'
+- !lcc 'PH'
+title: 'Elämän hawainnoita 08: Rauta=waimoja; Sokea; Kuihtunut wesa'
+url: http://www.gutenberg.org/ebooks/14949
